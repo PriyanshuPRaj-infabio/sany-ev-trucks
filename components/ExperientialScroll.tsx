@@ -170,9 +170,9 @@ export default function ExperientialScroll() {
               style={{ opacity: leftHeadingOpacity, x: leftHeadingX }}
               className="absolute left-6 md:left-20 top-[28%] md:top-[30%] select-none z-20 max-w-xl"
             >
-              <h1 className="text-[7.5vw] md:text-[6.5vw] font-normal tracking-[-0.04em] leading-[0.85] text-white">
+              <h1 className="text-[7.5vw] md:text-[6.5vw] font-extralight tracking-[-0.04em] leading-[0.85] text-zinc-300">
                 We are <br />
-                <span className="font-extralight text-zinc-300">progress</span>
+                <span className="font-bold text-white">progress</span>
               </h1>
             </motion.div>
 
@@ -181,9 +181,9 @@ export default function ExperientialScroll() {
               style={{ opacity: rightHeadingOpacity, x: rightHeadingX }}
               className="absolute right-6 md:right-20 top-[48%] md:top-[46%] select-none z-20 max-w-xl text-right"
             >
-              <h1 className="text-[7.5vw] md:text-[6.5vw] font-normal tracking-[-0.04em] leading-[0.85] text-white">
+              <h1 className="text-[7.5vw] md:text-[6.5vw] font-extralight tracking-[-0.04em] leading-[0.85] text-zinc-300">
                 We are <br />
-                <span className="font-extralight text-zinc-300">innovation</span>
+                <span className="font-bold text-white">innovation</span>
               </h1>
             </motion.div>
 
